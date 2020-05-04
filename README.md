@@ -12,3 +12,4 @@ smp<-function(cross=fold_num,n,seed)
 ~~~
 ![image](https://github.com/seebeyond/programeNo/blob/master/Screenshot_2015-12-18-19-21-14.png)
 ![image2](https://raw.githubusercontent.com/seebeyond/programeNo/master/Screenshot_2015-12-18-19-21-14.png)
+![image3](https://raw.githubusercontent.com/seebeyond/programeNo/master/image/Screenshot_2015-12-18-19-21-14.png)
