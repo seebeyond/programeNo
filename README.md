@@ -10,3 +10,4 @@ smp<-function(cross=fold_num,n,seed)
   return(dd)
 }
 ~~~
+![image](https://github.com/seebeyond/programeNo/blob/master/Screenshot_2015-12-18-19-21-14.png)
